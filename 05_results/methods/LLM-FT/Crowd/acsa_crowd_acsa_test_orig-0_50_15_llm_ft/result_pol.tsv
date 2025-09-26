@@ -1,0 +1,7 @@
+Label	Precision	Recall	F1	Accuracy	Support
+Positiv	0	0	0	0	0
+Neutral	0	0	0	0	0
+Negativ	0	0	0	0	0
+Konflikt	0	0	0	0	0
+Micro-AVG	0.8654	0.8385	0.8517	0.7418	1274
+Macro-AVG	0.0	0.0	0.0		1274

@@ -1,0 +1,124 @@
+<View>
+  <Style>
+    .label-header {
+      font-weight: bold;
+      font-size: 16px;
+      margin-right: 10px;
+    }
+    .label-start {
+      border-bottom: 1px solid #ccc;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .border {
+      border-bottom: 1px solid #ccc;
+      margin: 5px 0;
+    }
+    .label-row {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+  </Style>
+
+  <!-- Textanzeige -->
+  <Text name="text" value="$text" granularity="word" />
+  <View className="border" />
+
+  <!-- Aspekt-Annotation -->
+  <Labels name="category_polarity" toName="text" allowOverlap="false" showInline="false">
+
+    <!-- Einleitung -->
+    <View>
+      <Header value="Aspekt-Label" className="label-start" />
+      <Text name="Info_2" value="Verwende die folgenden Labels, um Aspekte mit ihrer jeweiligen Kategorie und Polarität zu markieren." />
+    </View>
+
+    <!-- Essen -->
+    <View className="label-row">
+      <Header value="Essen 🍔" className="label-header" />
+      <Label value="Essen-Positiv" background="#2E7D32" hotkey="1" />
+      <Label value="Essen-Negativ" background="#C62828" hotkey="2" />
+      <Label value="Essen-Neutral" background="#616161" hotkey="3" />
+      <Label value="Essen-Konflikt" background="#1565C0" hotkey="y" />
+    </View>
+
+    <!-- Service -->
+    <View className="label-row">
+      <Header value="Service 🍽️" className="label-header" />
+      <Label value="Service-Positiv" background="#2E7D32" hotkey="4" />
+      <Label value="Service-Negativ" background="#C62828" hotkey="5" />
+      <Label value="Service-Neutral" background="#616161" hotkey="6" />
+      <Label value="Service-Konflikt" background="#1565C0" hotkey="x" />
+    </View>
+
+    <!-- Ambiente -->
+    <View className="label-row">
+      <Header value="Ambiente 🕯️" className="label-header" />
+      <Label value="Ambiente-Positiv" background="#2E7D32" hotkey="7" />
+      <Label value="Ambiente-Negativ" background="#C62828" hotkey="8" />
+      <Label value="Ambiente-Neutral" background="#616161" hotkey="9" />
+      <Label value="Ambiente-Konflikt" background="#1565C0" hotkey="c" />
+    </View>
+
+    <!-- Gesamteindruck -->
+    <View className="label-row">
+      <Header value="Gesamteindruck 🏠" className="label-header" />
+      <Label value="Gesamteindruck-Positiv" background="#2E7D32" hotkey="q" />
+      <Label value="Gesamteindruck-Negativ" background="#C62828" hotkey="w" />
+      <Label value="Gesamteindruck-Neutral" background="#616161" hotkey="e" />
+      <Label value="Gesamteindruck-Konflikt" background="#1565C0" hotkey="v" />
+    </View>
+
+    <!-- Preis -->
+    <View className="label-row">
+      <Header value="Preis 💸" className="label-header" />
+      <Label value="Preis-Positiv" background="#2E7D32" hotkey="a" />
+      <Label value="Preis-Negativ" background="#C62828" hotkey="s" />
+      <Label value="Preis-Neutral" background="#616161" hotkey="d" />
+      <Label value="Preis-Konflikt" background="#1565C0" hotkey="b" />
+    </View>
+  </Labels>
+
+  <View className="border" />
+
+  <!-- Implizite Aspekte -->
+  <View>
+    <Header value="Implizite Aspektnennung" />
+    <Text name="Info" value="Das 'Implizit'-Label darf nur ergänzend zu einem bereits bestehenden Aspekt-Label angewendet werden (es darf also nicht alleine stehen). Zwei Labels gleichzeitig neu zu vergeben kann zu einem Absturz von Label Studio führen. In diesem Fall bitte die Seite neu laden." />
+    <Labels name="implicit" toName="text" allowOverlap="false">
+      <Label value="Implizit" hotkey="0" />
+    </Labels>
+  </View>
+
+  <View className="border" />
+
+  <!-- Metadaten -->
+  <View>
+    <Header value="Metadaten" />
+    
+    <Choices name="meta" toName="text" choice="multiple">
+      <Choice alias="S" value="Die Annotation war schwierig." />
+      <Choice alias="K" value="Fehlender Kontext aus der Bewertung könnte die Annotation beeinflussen." />
+    </Choices>
+  </View>
+
+  <!-- Kommentarbereich -->
+  <View>
+    <TextArea
+      name="comment"
+      toName="text"
+      editable="true"
+      perRegion="false"
+      required="false"
+      maxSubmissions="1"
+      rows="1"
+      placeholder="Zusätzliche Kommentare..."
+      displayMode="tag"
+    />
+  </View>
+  <Text name="Link" value="Die Annotationsanleitung kann hier abgerufen werden: https://drive.google.com/file/d/1bM3cvp2F8EWNqdkJJbqhFHJRQO4r_FRo/view?usp=sharing"/>
+</View>

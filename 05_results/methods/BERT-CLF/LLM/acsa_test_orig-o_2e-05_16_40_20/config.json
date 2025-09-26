@@ -1,0 +1,12 @@
+{
+    "model_name": "deepset/gbert-base",
+    "task": "acsa",
+    "data_setting": "orig",
+    "dataset": "llm/acsa",
+    "per_device_train_batch_size": 16,
+    "learning_rate": 2e-05,
+    "num_train_epochs": 40,
+    "eval_type": "test",
+    "train_runtime": 381.440979719162,
+    "gpu_util": 2.654
+}

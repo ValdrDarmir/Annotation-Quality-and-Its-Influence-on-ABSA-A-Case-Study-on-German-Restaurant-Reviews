@@ -1,0 +1,8 @@
+Label	Precision	Recall	F1	Accuracy	Support
+ambiente	0.8696	0.8475	0.8584	0.7519	133
+essen	0.8557	0.8776	0.8665	0.7644	450
+gesamteindruck	0.867	0.7326	0.7941	0.6585	287
+preis	0.75	0.75	0.75	0.6	85
+service	0.9478	0.8729	0.9088	0.8328	305
+Micro-AVG	0.8758	0.8323	0.8535	0.7444	1260
+Macro-AVG	0.858	0.8161	0.8356		1260

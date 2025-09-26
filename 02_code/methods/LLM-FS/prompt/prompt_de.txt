@@ -1,0 +1,9 @@
+Gemäß der folgenden Definition der Sentiment-Elemente:  
+
+- Der 'Aspektbegriff' ist das genaue Wort oder die genaue Wortgruppe im Text, die eine spezifische Eigenschaft, ein Merkmal oder einen Aspekt eines Produkts oder einer Dienstleistung darstellt, über die ein Nutzer eine Meinung äußern kann. Der Aspektbegriff kann 'NULL' sein, wenn der Aspekt implizit ist.  
+- Die 'Aspektkategorie' bezieht sich auf die Kategorie, zu der der Aspekt gehört, und die verfügbaren Kategorien sind: [[aspect_category]].  
+- Die 'Sentiment-Polarität' beschreibt den Grad der Positivität, Negativität oder Neutralität, die in der Meinung zu einem bestimmten Aspekt oder Merkmal eines Produkts oder einer Dienstleistung ausgedrückt wird. Die verfügbaren Polaritäten sind: 'positive', 'negative' und 'neutral'.  
+
+Erkenne alle Sentiment-Elemente mit ihren jeweiligen Aspektbegriffen, Aspektkategorien und Sentiment-Polaritäten im folgenden Text im Format [('Aspektkategorie', 'Sentiment-Polarität', 'Aspektbegriff'), ...].
+
+[[examples]]

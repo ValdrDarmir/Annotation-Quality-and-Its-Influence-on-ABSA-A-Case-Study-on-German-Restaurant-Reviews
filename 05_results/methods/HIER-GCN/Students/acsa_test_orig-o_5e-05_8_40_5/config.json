@@ -1,0 +1,13 @@
+{
+    "model_name": "deepset/gbert-base",
+    "task": "acsa",
+    "data_setting": "orig",
+    "dataset": "students/acsaRedo",
+    "per_device_train_batch_size": 8,
+    "gradient_accumulation_steps": 1,
+    "learning_rate": 5e-05,
+    "num_train_epochs": 40.0,
+    "eval_type": "test",
+    "train_runtime": 635.7861926555634,
+    "gpu_util": 3.174
+}

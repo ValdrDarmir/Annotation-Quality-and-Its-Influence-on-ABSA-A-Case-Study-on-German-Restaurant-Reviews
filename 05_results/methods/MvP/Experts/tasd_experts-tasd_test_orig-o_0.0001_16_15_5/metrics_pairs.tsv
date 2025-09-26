@@ -1,0 +1,18 @@
+	precision	recall	f1	accuracy	support
+essen:positive	0.7979	0.8459	0.8212	0.6966	323.0
+essen:neutral	0.7714	0.7297	0.75	0.6	45.0
+essen:negative	0.697	0.7841	0.738	0.5847	236.0
+service:positive	0.8831	0.8344	0.858	0.7514	181.0
+service:neutral	1.0	0.6667	0.8	0.6667	3.0
+service:negative	0.7551	0.745	0.75	0.6	185.0
+gesamteindruck:positive	0.7523	0.6357	0.6891	0.5256	156.0
+gesamteindruck:neutral	1.0	0.4	0.5714	0.4	10.0
+gesamteindruck:negative	0.7959	0.629	0.7027	0.5417	144.0
+ambiente:positive	0.7586	0.7765	0.7674	0.6226	106.0
+ambiente:neutral	0.0	0.0	0.0	0.0	2.0
+ambiente:negative	0.4681	0.5789	0.5176	0.3492	63.0
+preis:positive	0.5	0.6364	0.56	0.3889	18.0
+preis:neutral	0.8889	0.6154	0.7273	0.5714	14.0
+preis:negative	0.7692	0.6667	0.7143	0.5556	54.0
+Micro-AVG	0.7616	0.7488	0.7551	0.6066	1543.0
+Macro-AVG	0.7225	0.6363	0.6645		1543

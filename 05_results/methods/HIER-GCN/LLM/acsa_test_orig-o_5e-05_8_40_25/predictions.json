@@ -1,0 +1,7605 @@
+{
+    "test": [
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:neutral",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive"
+            ],
+            "gold_labels": [
+                "preis:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:neutral"
+            ],
+            "gold_labels": [
+                "gesamteindruck:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:neutral",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "preis:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "preis:neutral",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:neutral"
+            ],
+            "gold_labels": [
+                "preis:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:neutral"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:positive",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "preis:negative",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "gesamteindruck:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "gesamteindruck:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive"
+            ],
+            "gold_labels": [
+                "preis:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:neutral",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:neutral",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "service:neutral",
+                "gesamteindruck:neutral",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:positive",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "preis:negative",
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "preis:negative",
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "gesamteindruck:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive"
+            ],
+            "gold_labels": [
+                "preis:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "ambiente:neutral",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:neutral",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:neutral",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:neutral"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:neutral"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "gesamteindruck:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:neutral",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:neutral",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "preis:positive",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "preis:neutral",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "preis:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "preis:negative",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "preis:negative",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "preis:negative",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "preis:positive",
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "preis:positive",
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:neutral"
+            ],
+            "gold_labels": [
+                "preis:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "preis:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "preis:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:neutral",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambiente:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:neutral"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "gesamteindruck:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:neutral"
+            ],
+            "gold_labels": [
+                "preis:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive"
+            ],
+            "gold_labels": [
+                "preis:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "gesamteindruck:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:neutral"
+            ],
+            "gold_labels": [
+                "gesamteindruck:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:neutral"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:neutral",
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "preis:neutral",
+                "essen:neutral"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambiente:positive",
+                "gesamteindruck:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "gesamteindruck:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative",
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:neutral"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:neutral"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:negative"
+            ],
+            "gold_labels": [
+                "ambiente:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive",
+                "gesamteindruck:neutral"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative"
+            ],
+            "gold_labels": [
+                "preis:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:neutral",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "gesamteindruck:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "preis:negative",
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "preis:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative"
+            ],
+            "gold_labels": [
+                "service:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive"
+            ],
+            "gold_labels": [
+                "service:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "ambiente:positive"
+            ],
+            "gold_labels": [
+                "ambiente:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:negative"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "essen:negative"
+            ]
+        },
+        {
+            "predictions": [
+                "service:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "service:negative",
+                "ambiente:positive",
+                "essen:positive"
+            ],
+            "gold_labels": [
+                "service:negative",
+                "ambiente:positive",
+                "essen:positive"
+            ]
+        },
+        {
+            "predictions": [
+                "gesamteindruck:negative"
+            ],
+            "gold_labels": [
+                "gesamteindruck:negative"
+            ]
+        }
+    ]
+}

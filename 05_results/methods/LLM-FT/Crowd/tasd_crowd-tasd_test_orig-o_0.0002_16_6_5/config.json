@@ -1,0 +1,21 @@
+{
+    "model_name": "meta-llama/Llama-3.1-8B",
+    "task": "tasd",
+    "data_setting": "orig",
+    "dataset": "crowd/tasd",
+    "per_device_train_batch_size": 16,
+    "gradient_accumulation_steps": 1,
+    "learning_rate": 0.0002,
+    "num_train_epochs": 6,
+    "eval_type": "test",
+    "lr_scheduler_type": "linear",
+    "seed": 5,
+    "used_memory": 12.707,
+    "used_memory_for_lora": 5.57,
+    "temperature": 0,
+    "max_tokens": 200,
+    "top_k": -1,
+    "top_p": 1,
+    "training_time": "0:37:56.380875",
+    "eval_time": 648.5879921913147
+}

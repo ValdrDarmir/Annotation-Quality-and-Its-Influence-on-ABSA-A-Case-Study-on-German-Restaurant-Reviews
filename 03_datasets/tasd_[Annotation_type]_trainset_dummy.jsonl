@@ -1,0 +1,2 @@
+{"id": "1", "original_id": "2", "text": "Der Burger total durchgebraten und trocken.", "labels": [["essen", "negative", "Burger"]]}
+{"id": "2", "original_id": "6", "text": "Der Kellner läuft planlos durch die Gegend und wirkt überfordert.", "labels": [["service", "negative", "Kellner"]]}

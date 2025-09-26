@@ -1,0 +1,109 @@
+<View>
+  <Style>
+    .label-header {
+      font-weight: bold;
+      font-size: 16px;
+      margin-right: 10px;
+    }
+    .label-start {
+      border-bottom: 1px solid #ccc;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .border {
+      border-bottom: 1px solid #ccc;
+      margin: 5px 0;
+    }
+    .label-row {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 10px;
+    }
+  </Style>
+
+  <!-- Textanzeige -->
+  <Text name="text" value="$text" granularity="word" />
+  <View className="border" />
+  <Choices name="gender" toName="text" choice="multiple">
+    <!-- Einleitung -->
+    <View>
+      <Header value="Aspekt-Label" className="label-start" />
+      <Text name="Info_2" value="Wähle die passenden Aspektkategorien mit ihrer jeweiligen Polarität aus." />
+    </View>
+	<!-- Essen -->
+    <View className="label-row">
+  		<Header value="Essen 🍔" className="label-header" />
+    	<Choice value="Essen-Positiv" background="#2E7D32" hotkey="1" />
+    	<Choice value="Essen-Negativ" background="#C62828" hotkey="2" />
+    	<Choice value="Essen-Neutral" background="#616161" hotkey="3" />
+    	<Choice value="Essen-Konflikt" background="#1565C0" hotkey="y" />
+	</View>
+
+  	<!-- Service -->
+    <View className="label-row">
+      <Header value="Service 🍽️" className="label-header" />
+      <Choice value="Service-Positiv" background="#2E7D32" hotkey="4" />
+      <Choice value="Service-Negativ" background="#C62828" hotkey="5" />
+      <Choice value="Service-Neutral" background="#616161" hotkey="6" />
+      <Choice value="Service-Konflikt" background="#1565C0" hotkey="x" />
+	</View>
+
+  <!-- Ambiente -->
+    <View className="label-row">
+  		<Header value="Ambiente 🕯️" className="label-header" />
+    	<Choice value="Ambiente-Positiv" background="#2E7D32" hotkey="7" />
+    	<Choice value="Ambiente-Negativ" background="#C62828" hotkey="8" />
+    	<Choice value="Ambiente-Neutral" background="#616161" hotkey="9" />
+      	<Choice value="Ambiente-Konflikt" background="#1565C0" hotkey="c" />
+	</View>
+
+  <!-- Gesamteindruck -->
+     <View className="label-row">
+  		<Header value="Gesamteindruck 🏠" className="label-header" />
+    	<Choice value="Gesamteindruck-Positiv" background="#2E7D32" hotkey="q" />
+    	<Choice value="Gesamteindruck-Negativ" background="#C62828" hotkey="w" />
+    	<Choice value="Gesamteindruck-Neutral" background="#616161" hotkey="e" />
+    	<Choice value="Gesamteindruck-Konflikt" background="#1565C0" hotkey="v" />
+	</View>
+
+  <!-- Preis -->
+     <View className="label-row">
+  		<Header value="Preis 💸" className="label-header" />
+    	<Choice value="Preis-Positiv" background="#2E7D32" hotkey="a" />
+    	<Choice value="Preis-Negativ" background="#C62828" hotkey="s" />
+    	<Choice value="Preis-Neutral" background="#616161" hotkey="d" />
+    	<Choice value="Preis-Konflikt" background="#1565C0" hotkey="b" />
+	</View>
+  </Choices>	
+
+  <View className="border" />
+
+  <!-- Metadaten -->
+  <View>
+    <Header value="Metadaten" />
+    
+    <Choices name="meta" toName="text" choice="multiple">
+      <Choice alias="S" value="Die Annotation war schwierig." />
+      <Choice alias="K" value="Fehlender Kontext aus der Bewertung könnte die Annotation beeinflussen." />
+    </Choices>
+  </View>
+
+  <!-- Kommentarbereich -->
+  <View>
+    <TextArea
+      name="comment"
+      toName="text"
+      editable="true"
+      perRegion="false"
+      required="false"
+      maxSubmissions="1"
+      rows="1"
+      placeholder="Zusätzliche Kommentare..."
+      displayMode="tag"
+    />
+  </View>
+  <Text name="Link" value="Die Annotationsanleitung kann hier abgerufen werden: https://drive.google.com/file/d/1bM3cvp2F8EWNqdkJJbqhFHJRQO4r_FRo/view?usp=sharing"/>
+</View>
