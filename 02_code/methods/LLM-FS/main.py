@@ -160,8 +160,6 @@ dataset = "crowd"
 task = "acsa"
 # task = "acsa"
 model = "gemma3:27b"
-# dataset_names = ["trainset_1.jsonl", "trainset_2.jsonl",
-#                  "trainset_3.jsonl", "trainset_4.jsonl", "trainset_5.jsonl"]
 dataset_names = ["test.json"]
 
 for seed in seeds:

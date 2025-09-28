@@ -4,8 +4,8 @@ import time
 import os
 import sys
 
-GEMMA_API = "http://132.199.138.16:11434/api/generate"
-# GEMMA_API ="http://132.199.143.117:11434/api/generate"
+GEMMA_API = "YOUR_GEMMA_API_ENDPOINT"
+
 
 
 sys.path.append(os.path.abspath(os.path.join(
