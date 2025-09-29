@@ -1,6 +1,7 @@
 # Annotation Quality and Its Influence on Aspect-Based Sentiment Analysis: A Case Study on German Restaurant Reviews  
 
-**Master Thesis** 
+**Master Thesis** <br>
+
 **Author: Niklas Donhauser** 
 
 ---
@@ -94,5 +95,20 @@ The findings contribute to a deeper understanding of the relationship between an
 - GERestaurant: Hellwig, N. C., Fehle, J., Bink, M., & Wolff, C. (2024, September). GERestaurant: A German Dataset of Annotated Restaurant Reviews for Aspect-Based Sentiment Analysis. In Proceedings of the 20th Conference on Natural Language Processing (KONVENS 2024) (pp. 123–133). [PDF](https://doi.org/10.48550/arXiv.2408.07955)
 - LLM Dataset Generation: Hellwig, N. C., Fehle, J., Kruschwitz, U., & Wolff, C. (2025, May). Do we still need human annotators? Prompting large language models for aspect sentiment quad prediction. arXiv. [PDF](https://doi.org/10.48550/arXiv.2502.13044)
 
+- Model Parameters: Fehle, J., Donhauser, N., Kruschwitz, U., Hellwig, N. C., & Wolff, C. (2025, September). German Aspect-based Sentiment Analysis in the Wild: B2B Dataset Creation and Cross-Domain Evaluation. In 21st Conference on Natural Language Processing (KONVENS 2025)(Vol. 9, p. 213).
+
 <hr>
  
+## Citation  
+
+If you use our work, please cite our paper and link this repository:  
+
+```bibtex
+@misc{donhauser_2025_absa_quality,  
+  title   = {Annotation Quality and Its Influence on Aspect-Based Sentiment Analysis: A Case Study on German Restaurant Reviews},  
+  author  = {Donhauser, Niklas},  
+  month   = sep,  
+  year    = {2025},  
+  address = {Regensburg, Germany}  
+}  
+```
