@@ -19,7 +19,7 @@ The study compares the quality of these annotations using inter-annotator agreem
 The evaluation focuses on two central ABSA tasks: Aspect Category Sentiment Analysis and Target Aspect Sentiment Detection.
 State-of-the-art methods, including Paraphrase, Multi-View Prompting, BERT-CLF, fine-tuned large language models and few-shot prompting approaches, are applied to assess how differences in annotation quality translate into measurable differences in model outcomes.
 
-The findings contribute to a deeper understanding of the relationship between annotation strategy, inter-annotator reliability, and model performance in ABSA, providing practical insights for the creation of annotated datasets in poor-resource languages such as German. By highlighting trade-offs between annotation reliability, efficiency, and cost, the thesis offers guidance for future work in resource construction and evaluation for sentiment analysis in German.
+The findings contribute to a deeper understanding of the relationship between annotation strategy, inter-annotator agreement, and model performance in ABSA, providing practical insights for the creation of annotated datasets in poor-resource languages such as German. By highlighting trade-offs between annotation reliability, efficiency, and cost, the thesis offers guidance for future work in resource construction and evaluation for sentiment analysis in German.
 
 <hr>
 
